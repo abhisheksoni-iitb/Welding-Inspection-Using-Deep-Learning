@@ -95,7 +95,20 @@ The material used in welding tool piece was Aluminium 5083 Alloy with the follow
 
 ## Description of the Dataset which contains the Images
 
-[Overall Dataset](https://www.notion.so/43d11d7b40e549b6941190e529bb7a37)
+<style>
+</style>
+
+| LABEL               | NUMBER OF<br> SAMPLES |      |
+| ------------------- | --------------------- | ---- |
+|                     | Train                 | Test |
+| Good weld           | 1102                  | 2189 |
+| Burn through        | 892                   | 351  |
+| Contamination       | 909                   | 2078 |
+| Lack of fusion      | 1008                  | 1007 |
+| Misalignment        | 988                   | 729  |
+| Lack of penetration | 942                   | 234  |
+| TOTAL               | 5841                  | 6588 |
+
 
 ### Dataset Containing Images:
 
