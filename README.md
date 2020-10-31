@@ -1,1 +1,0 @@
-# coputer-vision-on-welding-defects
