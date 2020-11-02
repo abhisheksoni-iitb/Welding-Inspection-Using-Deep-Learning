@@ -29,7 +29,7 @@ We’ll be using Python-based Jupyter Notebook to design the model architecture.
 
 There are available open datasets for TIG welding which can be used to train our model.
 
-One such can be found here: [Link](https://www.kaggle.com/danielbacioiu/tig-aluminium-5083/download)
+One such can be found here: [Link](https://www.kaggle.com/danielbacioiu/tig-aluminium-5083/)
 
 ## Tungsten Inert Gas (TIG) Welding
 
