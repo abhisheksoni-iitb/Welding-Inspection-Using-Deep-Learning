@@ -97,7 +97,7 @@ The material used in welding tool piece was Aluminium 5083 Alloy with the follow
 
 
 
-| LABEL               | NUMBER OF<br> SAMPLES |      |
+| LABEL               | NUMBER OF SAMPLES |      |
 | ------------------- | --------------------- | ---- |
 |                     | Train                 | Test |
 | Good weld           | 1102                  | 2189 |
@@ -117,52 +117,52 @@ The following table contains information about the dataset in the Google Drive L
 
 
 
-| **Folders<br> (Training Images)** | **Contains<br> Image which has** |
+| **Folders (Training Images)** | **Contains Image which has** |
 | --------------------------------- | -------------------------------- |
-| 170906-141809-Al<br> 2mm-part1    | Good weld                        |
-| 170906-120346-Al<br> 2mm          | Good weld                        |
-| 170906-114912-Al<br> 2mm          | Good weld                        |
-| 170913-152931-Al<br> 2mm-part1    | Good weld                        |
-| 170905-115602-Al<br> 2mm          | Good weld                        |
-| 170913-151508-Al<br> 2mm-part1    | Good weld                        |
-| 170905-114307-Al<br> 2mm          | Good weld                        |
-| 170913-155806-Al<br> 2mm-part1    | Good weld                        |
-| 170904-141730-Al<br> 2mm-part1    | Good weld                        |
-| 170913-143933-Al<br> 2mm-part1    | Good weld                        |
-| 170904-145718-Al<br> 2mm-part1    | Good weld                        |
-| 170913-142501-Al<br> 2mm          | Good weld                        |
-| 170906-144958-Al<br> 2mm          | Burn through                     |
-| 170906-113317-Al<br> 2mm-part3    | Burn through                     |
-| 170906-153326-Al<br> 2mm-part2    | Contamination                    |
-| 170904-151845-Al<br> 2mm-part2    | Contamination                    |
-| 170815-133921-Al<br> 2mm          | Contamination                    |
-| 170906-141809-Al<br> 2mm-part2    | Contamination                    |
-| 170904-141730-Al<br> 2mm-part2    | Contamination                    |
-| 170913-143933-Al<br> 2mm-part2    | Contamination                    |
-| 170904-141232-Al<br> 2mm-part2    | Contamination                    |
-| 170904-115959-Al<br> 2mm          | Contamination                    |
-| 170913-151508-Al<br> 2mm-part2    | Contamination                    |
-| 170913-152931-Al<br> 2mm-part2    | Contamination                    |
-| 170904-112347-Al<br> 2mm          | Contamination                    |
-| 170815-134756-Al<br> 2mm          | Contamination                    |
-| 170904-150144-Al<br> 2mm-part1    | Contamination                    |
-| 170906-151353-Al<br> 2mm          | Lack of fusion                   |
-| 170906-150801-Al<br> 2mm          | Lack of fusion                   |
-| 170906-150010-Al<br> 2mm          | Lack of fusion                   |
-| 170913-140725-Al<br> 2mm          | Misalignment                     |
-| 170905-110711-Al<br> 2mm-part2    | Misalignment                     |
-| 170904-155523-Al<br> 2mm          | Misalignment                     |
-| 170904-154202-Al<br> 2mm-part2    | Misalignment                     |
-| 170904-152301-Al<br> 2mm-part1    | Misalignment                     |
-| 170904-145718-Al<br> 2mm-part2    | Misalignment                     |
-| 170904-141730-Al<br> 2mm-part3    | Misalignment                     |
-| 170904-141232-Al<br> 2mm-part3    | Misalignment                     |
-| 170904-113012-Al<br> 2mm-part2    | Misalignment                     |
-| 170913-155806-Al<br> 2mm-part2    | Misalignment                     |
-| 170906-153326-Al<br> 2mm-part1    | Lack of<br> penetration          |
-| 170904-151845-Al<br> 2mm-part1    | Lack of<br> penetration          |
-| 170904-141232-Al<br> 2mm-part1    | Lack of<br> penetration          |
-| 170904-115503-Al<br> 2mm          | Lack of<br> penetration          |
-| 170904-113012-Al<br> 2mm-part1    | Lack of<br> penetration          |
-| 170905-110711-Al<br> 2mm-part1    | Lack of<br> penetration          |
+| 170906-141809-Al 2mm-part1    | Good weld                        |
+| 170906-120346-Al 2mm          | Good weld                        |
+| 170906-114912-Al 2mm          | Good weld                        |
+| 170913-152931-Al 2mm-part1    | Good weld                        |
+| 170905-115602-Al 2mm          | Good weld                        |
+| 170913-151508-Al 2mm-part1    | Good weld                        |
+| 170905-114307-Al 2mm          | Good weld                        |
+| 170913-155806-Al 2mm-part1    | Good weld                        |
+| 170904-141730-Al 2mm-part1    | Good weld                        |
+| 170913-143933-Al 2mm-part1    | Good weld                        |
+| 170904-145718-Al 2mm-part1    | Good weld                        |
+| 170913-142501-Al 2mm          | Good weld                        |
+| 170906-144958-Al 2mm          | Burn through                     |
+| 170906-113317-Al 2mm-part3    | Burn through                     |
+| 170906-153326-Al 2mm-part2    | Contamination                    |
+| 170904-151845-Al 2mm-part2    | Contamination                    |
+| 170815-133921-Al 2mm          | Contamination                    |
+| 170906-141809-Al 2mm-part2    | Contamination                    |
+| 170904-141730-Al 2mm-part2    | Contamination                    |
+| 170913-143933-Al 2mm-part2    | Contamination                    |
+| 170904-141232-Al 2mm-part2    | Contamination                    |
+| 170904-115959-Al 2mm          | Contamination                    |
+| 170913-151508-Al 2mm-part2    | Contamination                    |
+| 170913-152931-Al 2mm-part2    | Contamination                    |
+| 170904-112347-Al 2mm          | Contamination                    |
+| 170815-134756-Al 2mm          | Contamination                    |
+| 170904-150144-Al 2mm-part1    | Contamination                    |
+| 170906-151353-Al 2mm          | Lack of fusion                   |
+| 170906-150801-Al 2mm          | Lack of fusion                   |
+| 170906-150010-Al 2mm          | Lack of fusion                   |
+| 170913-140725-Al 2mm          | Misalignment                     |
+| 170905-110711-Al 2mm-part2    | Misalignment                     |
+| 170904-155523-Al 2mm          | Misalignment                     |
+| 170904-154202-Al 2mm-part2    | Misalignment                     |
+| 170904-152301-Al 2mm-part1    | Misalignment                     |
+| 170904-145718-Al 2mm-part2    | Misalignment                     |
+| 170904-141730-Al 2mm-part3    | Misalignment                     |
+| 170904-141232-Al 2mm-part3    | Misalignment                     |
+| 170904-113012-Al 2mm-part2    | Misalignment                     |
+| 170913-155806-Al 2mm-part2    | Misalignment                     |
+| 170906-153326-Al 2mm-part1    | Lack of penetration          |
+| 170904-151845-Al 2mm-part1    | Lack of penetration          |
+| 170904-141232-Al 2mm-part1    | Lack of penetration          |
+| 170904-115503-Al 2mm          | Lack of penetration          |
+| 170904-113012-Al 2mm-part1    | Lack of penetration          |
+| 170905-110711-Al 2mm-part1    | Lack of penetration          |
 
