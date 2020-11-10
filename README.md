@@ -1,5 +1,7 @@
 # Classfying Welding Defects Using Deep Learning
 
+[Jupyter Notebooks](/Notebooks)
+
 **PROJECT DESCRIPTION:**
 
 Gas tungsten arc welding, also known as tungsten inert gas welding, is an arc welding process that uses a non-consumable tungsten electrode to produce the weld.
