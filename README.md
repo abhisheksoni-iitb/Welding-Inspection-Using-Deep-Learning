@@ -51,12 +51,12 @@ We propose to use a convolutional neural network to classify the quality of weld
 
 The weld can be classified into:
 
-1. **Good weld**
-2. **Burn Through:**When the weld metal completely penetrates the base metal.
-3. **Contamination:**Contamination makes the welding porous, which in turn compromises the welding strength. There can be various reasons for contamination, such as contaminated metal, electrodes, or improper flow of shield gas.
-4. **Lack of fusion:**It can be due to poor welding techniques. For example, if travel speed is too slow, the arc’s leading-edge will be in the puddle (it should be ahead of the puddle), resulting in a lack of fusion.
-5. **Misalignment:**It can be due to poor component fit-up or relative motion between the components during the welding process.
-6. **Lack of penetration:**Incomplete penetration is a weld bead that does not start at the root of the weld
+1. **Good weld** 
+2. **Burn Through**: When the weld metal completely penetrates the base metal.
+3. **Contamination**: Contamination makes the welding porous, which in turn compromises the welding strength. There can be various reasons for contamination, such as contaminated metal, electrodes, or improper flow of shield gas.
+4. **Lack of fusion** :It can be due to poor welding techniques. For example, if travel speed is too slow, the arc’s leading-edge will be in the puddle (it should be ahead of the puddle), resulting in a lack of fusion.
+5. **Misalignment**: It can be due to poor component fit-up or relative motion between the components during the welding process.
+6. **Lack of penetration**: Incomplete penetration is a weld bead that does not start at the root of the weld
 groove. Generally, it is caused by too low a current level giving inadequate penetration.
 
 # Sample Of each type of welding category
