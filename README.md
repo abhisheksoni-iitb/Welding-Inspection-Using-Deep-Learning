@@ -1,4 +1,4 @@
-# Classfying Welding Defects Using Deep Learning (Pytorch)
+# Welding Inspection: Classfying Welding Defects Using Deep Learning (Pytorch)
 
 [Jupyter Notebooks](/Notebooks)
 
